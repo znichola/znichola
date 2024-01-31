@@ -4,6 +4,21 @@ I'm Niki 👋, I'm studying programming at [42Lausanne](https://42lausanne.ch/) 
 
 Here are some of the projects I'm most proud of:
 
+## Typescript projects
+
+#### [ft_transcendence](https://github.com/znichola/ft_transcendence)
+
+A single page site for playing multiplayer games of pong, as well as community management, friends, chatrooms and spectator mode. The backend uses [Nestjs](https://nestjs.com/) for the server, [PostgreSQL](https://www.postgresql.org/) for the database and [Prisma](https://www.prisma.io/) as an ORM to communicate between the two. The frontend uses [React](https://react.dev/) for the user interface [Reactrouter](https://reactrouter.com/) to get SPA client side routing, with [TanStack Query v4](https://tanstack.com/query/v4) for state management. The styling was done using the [TailwindCSS](https://tailwindcss.com/) design system.
+A five person project [[git repo]](https://github.com/znichola/ft_transcendence)
+
+## C++ projects
+
+#### [WebServ](https://github.com/BPhilagor/WebServ)
+
+A http server that support POST, GET and DELETE, cookies and session management, and a configurable CGI, examples provided in php, python and bash. The server uses the `kqueue` api for request multiplexing, the GCI execution is also added to the queue for a seamless no hang experience with multiple concurrent requests.
+A three person project [[git repo]](https://github.com/BPhilagor/WebServ)
+
+
 ## C projects
 
 #### [MiniRT](https://github.com/znichola/miniRT)
@@ -21,19 +36,6 @@ A two person project [[git repo]](https://github.com/sophiakoulen/minishell)
 Mandelbrot, Julia and Burning Julia fractal rendering, written in `C` using a basic graphics library the [minilibx](https://github.com/42Paris/minilibx-linux). The complex number maths was custom implemented along with panning an zooming.
 A solo project [[git repo]](https://github.com/znichola/fract-ol)
 
-## C++ projects
-
-#### [WebServ](https://github.com/BPhilagor/WebServ)
-
-A http server that support POST, GET and DELETE, cookies and session management, and a configurable CGI, examples provided in php, python and bash. The server uses the `kqueue` api for request multiplexing, the GCI execution is also added to the queue for a seamless no hang experience with multiple concurrent requests.
-A three person project [[git repo]](https://github.com/BPhilagor/WebServ)
-
-## Typescript projects
-
-#### [ft_transcendence](https://github.com/znichola/ft_transcendence)
-
-A single page site for playing multiplayer games of pong, as well as community management, friends, chatrooms and spectator mode. The backend uses [Nestjs](https://nestjs.com/) for the server, [PostgreSQL](https://www.postgresql.org/) for the database and [Prisma](https://www.prisma.io/) as an ORM to communicate between the two. The frontend uses [React](https://react.dev/) for the user interface [Reactrouter](https://reactrouter.com/) to get SPA client side routing, with [TanStack Query v4](https://tanstack.com/query/v4) for state management. The styling was done using the [TailwindCSS](https://tailwindcss.com/) design system.
-A five person project [[git repo]](https://github.com/znichola/ft_transcendence)
 
 ## GameJams
 
@@ -46,7 +48,7 @@ A four person team [[git repo]](https://github.com/0xOnyx/UpsiJam2.0) [[itch pag
 
 #### [Born to Root](https://sid-fr.itch.io/born-to-root)
 Event: [Global Game Jam Geneva 2023](https://v3.globalgamejam.org/2023/jam-sites/global-game-jam-geneva) 
- A tower defense style game with a resource gathering phase. A massive nine person team [[git repo]]((https://github.com/0xOnyx/GGJ)) [[itch page]](https://sid-fr.itch.io/born-to-root)
+ A tower defense style game with a resource gathering phase. A massive nine person team [[git repo]](https://github.com/0xOnyx/GGJ) [[itch page]](https://sid-fr.itch.io/born-to-root)
 
 #### [Ugly Choices](https://0xonyx.itch.io/uglychoices)
 Event: [LevelUp 2023](https://lvlupgamejam.ch/) A story based dungeon crawler with branching options and specific text for various event combinations. A three person team [[git repo]](https://github.com/0xOnyx/GGJ) [[itch page]](https://0xonyx.itch.io/uglychoices)
